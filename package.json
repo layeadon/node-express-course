@@ -1,0 +1,25 @@
+{
+  "name": "laurenyeadon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "## Description",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/layeadon/node-express-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/layeadon/node-express-course/issues"
+  },
+  "homepage": "https://github.com/layeadon/node-express-course#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "save": "^2.4.0"
+  }
+}
